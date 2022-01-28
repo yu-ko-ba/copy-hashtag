@@ -14,7 +14,7 @@ body {
 
 
 p {
-    font-size: 10vw;
+    font-size: 5vw;
 
     margin: 0;
     padding: 0;
@@ -22,8 +22,11 @@ p {
 
 
 button {
-    font-size: 10vw;
+    font-size: 4vw;
 
-    margin: 0;
+    margin: 1em 0 1em 0;
     padding: 0;
+
+    width: 5em;
+    min-height: 80px;
 }
